@@ -1,10 +1,11 @@
-# rn-assignment2-ID-11290296
+## Author
+Name: Boateng Samuel
 Student ID: 11290296
 
-# Task Description:
+##Task Description:
 
 
-# Screenshot Of Application:
+##Screenshots
 
 
-# App.js:
+##App.js:
