@@ -1,11 +1,11 @@
 ## Author
-Name: Boateng Samuel
-Student ID: 11290296
+**Name**: Boateng Samuel
+**ID**: 11290296
 
-##Task Description:
-
-
-##Screenshots
+## Task Description:
 
 
-##App.js:
+## Screenshots
+
+
+## App.js:
